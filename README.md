@@ -1,8 +1,9 @@
-# React + Vite
+# Mouse Follower With React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aprendiendo React:
 
-Currently, two official plugins are available:
+1. Este es un proyecto que hace uso de useEffect dentro de React con el fin de entender como funciona este hook.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Creamos un efecto de un circulo que persigue nuestro mouse, el cual podemos activar y desactivar con un botón.
+
+3. Creamos un botón que permite quitar o colocar un componente.
